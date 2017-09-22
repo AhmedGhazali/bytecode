@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+<test name="testingtestng" >
+<classes >
+<class name="first.ng.lesson.TestNgDemo" ></class>
+<class name="first.ng.lesson.TestNgDemo2" ></class>
+</classes>
+</test>
+</suite>

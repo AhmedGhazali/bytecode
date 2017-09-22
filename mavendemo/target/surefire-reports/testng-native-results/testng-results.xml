@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2033" started-at="2017-09-22T18:11:14Z" finished-at="2017-09-22T18:11:16Z">
+    <groups>
+      <group name="group2">
+        <method signature="GroupTest.SecondGroup()[pri:0, instance:first.ng.lesson.GroupTest@3d24753a]" name="SecondGroup" class="first.ng.lesson.GroupTest"/>
+      </group> <!-- group2 -->
+      <group name="group1">
+        <method signature="GroupTest.FirstGroup()[pri:0, instance:first.ng.lesson.GroupTest@3d24753a]" name="FirstGroup" class="first.ng.lesson.GroupTest"/>
+      </group> <!-- group1 -->
+    </groups>
+    <test name="Command line test" duration-ms="2033" started-at="2017-09-22T18:11:14Z" finished-at="2017-09-22T18:11:16Z">
+      <class name="first.ng.lesson.GroupTest">
+        <test-method status="PASS" signature="FirstGroup()[pri:0, instance:first.ng.lesson.GroupTest@3d24753a]" name="FirstGroup" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstGroup -->
+        <test-method status="PASS" signature="SecondGroup()[pri:0, instance:first.ng.lesson.GroupTest@3d24753a]" name="SecondGroup" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondGroup -->
+      </class> <!-- first.ng.lesson.GroupTest -->
+      <class name="first.ng.lesson.TestNgDemo2">
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="SecondTest" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="TimeOuttest()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="TimeOuttest" duration-ms="1000" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeOuttest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="FirstTest" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:16Z" finished-at="2017-09-22T14:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- first.ng.lesson.TestNgDemo2 -->
+      <class name="first.ng.lesson.TestNgDemo">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:first.ng.lesson.TestNgDemo2@57829d67]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="TimeOuttest()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="TimeOuttest" duration-ms="1001" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeOuttest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="SecondTest" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="FirstTest" duration-ms="0" started-at="2017-09-22T14:11:14Z" finished-at="2017-09-22T14:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:first.ng.lesson.TestNgDemo@3b6eb2ec]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2017-09-22T14:11:15Z" finished-at="2017-09-22T14:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- first.ng.lesson.TestNgDemo -->
+      <class name="first.ng.lesson.ParamsTest">
+        <test-method status="PASS" signature="FirstTest(java.lang.Object, java.lang.Object)[pri:0, instance:first.ng.lesson.ParamsTest@7e0ea639]" name="FirstTest" duration-ms="0" started-at="2017-09-22T14:11:14Z" data-provider="getData" finished-at="2017-09-22T14:11:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[is theking]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[think]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="FirstTest(java.lang.Object, java.lang.Object)[pri:0, instance:first.ng.lesson.ParamsTest@7e0ea639]" name="FirstTest" duration-ms="0" started-at="2017-09-22T14:11:14Z" data-provider="getData" finished-at="2017-09-22T14:11:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ahmed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ghazali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+      </class> <!-- first.ng.lesson.ParamsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
